@@ -7,5 +7,5 @@
 **University:** The University of Texas at Arlington  
 **Level:** Sophmore Second Semester  
 **Position Title:** Student  
-**Course Webpage:** cdslab.org  
-**Photo:**
+**Course Webpage:** wwww.cdslab.org  
+**Photo:**  
