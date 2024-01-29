@@ -8,7 +8,7 @@
 **Level:** Sophmore Second Semester  
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](wwww.cdslab.org)  
-**Photo:**  [A photo of akshay](file:///Users/akshayrupakula/Desktop/_92593800_gettyimages-482923234.jpg)
-#**Description of the project's contents**
-This repository contains my homework, quizzes, and virtually every effort that I have made for DATA3101. The structure of the project is the following:
+**Photo:**  [A photo of akshay](file:///Users/akshayrupakula/Desktop/_92593800_gettyimages-482923234.jpg)  
+#**Description of the project's contents**  
+This repository contains my homework, quizzes, and virtually every effort that I have made for DATA3101. The structure of the project is the following:  
 ⋅⋅* Homework
