@@ -1,1 +1,1 @@
-This folder contains the asnwers to the exams
+This folder contains the answers to the exams
