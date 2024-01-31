@@ -12,4 +12,4 @@
 
 # **Description of the project's contents**  
 This repository contains my homework, quizzes, and virtually every effort that I have made for DATA3101. The structure of the project is the following:  
-⋅⋅* Homework
+⋅⋅*Homework: 
