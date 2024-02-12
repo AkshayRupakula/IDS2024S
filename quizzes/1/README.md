@@ -9,7 +9,7 @@
 **9.** The three different areas in a Git project are: 
 * Working Directory: This directory contains the file that is being modified by the user but Git has no track of the file changes. If the file is lost or removed, Git cannot recover it.  
 * Staging Area: When a file is modified it can be added to the Git staging area and committed at a later time. The staging area contains files in the repository and stores info about the next commit to the repository.  
-* Local Directory: After the files in the staging are committed to the repository, they can be seen on the github and can be accessed at later times.  
+* Local Directory: After the files in the staging are committed to the repository, they can be seen on the github and can be accessed at later times.
 **10.** Version control is a software-based system that records changes to a file or set of files over time so that you can recall specific versions later making teamwork, collaboration, and maintenance easy for teams and larger organizations.  
 **11.** The 6 benefits of using distributed VCS as opposed to not using any VCS at all for project indexing and maintenance are:  
 * Robustness and Redundancy  
