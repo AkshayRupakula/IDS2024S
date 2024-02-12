@@ -1,5 +1,5 @@
-**1.** File Created!
-**2.** `.md` stands for markdown and the period before it indiactes the file type. We prefer to use .md files on github since they can be previewed on page where it is stored.  
+**1.** File Created!  
+**2.** `.md` stands for markdown and the period before it indicates the file type. We prefer to use .md files on github since they can be previewed on page where it is stored.  
 **3.** No, Git does not track empty folders by default. Git focuses on tracking changes to files rather than the directory structure itself. Empty folders are not considered as changes to track.  
 **4.** Yes every git project has a .git folder  
 **5.** .git folder is essential for Git to function and manage the version control of your project effectively. It encapsulates all the necessary information and configurations needed for version control operations.  
