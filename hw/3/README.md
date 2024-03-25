@@ -32,4 +32,4 @@ This logical chain concludes that the gentleman is dishonest based on the observ
 
 6. Image Added to this sub folder
 
-7. 
+7.  
