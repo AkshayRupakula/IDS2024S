@@ -30,6 +30,13 @@ So, putting it all together in a chain of reasoning based on the given scenario:
 If A (alarm sounding) and C (person exiting with a bag through a broken window), then F (the person is acting dishonestly).  
 This logical chain concludes that the gentleman is dishonest based on the observations and the logical progression from those observations.  
 
-6. Image Added to this sub folder
+6-12. Image Added to this sub folder
 
-7.  
+12.
+* a. The tiniest unit of information is the bit taking a value of either 0 or 1.  
+
+* b. The reason a bit represents the tiniest unit of information is due to its binary nature,making it the most fundamental way to represent a distinction.  
+
+* c. * With 1 box (1 bit): You can represent 2 different things because the box can either contain a 0 or a 1. 
+     * With 2 boxes (2 bits): 2^2 = 4 different things you can represent. 
+     * With 3 boxes (3 bits): 2^3 = 8 different things you can represent.
