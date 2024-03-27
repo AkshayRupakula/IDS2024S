@@ -13,18 +13,26 @@ Ans.
 Ans. Empiricism, Theoretical Frameworks, Reproductability and Peer Review  
 
 3. Describe three different major applications of the third pillar of science with respect to the first two.  
-Ans. The ability to reproduce existing material with the outcome to find out new observations is important as it allows these creators to improve their critical thinking skills and also produce work that can again be redone with different approaches.
+Ans.
+* Finanace: Data Science is applied to analyze market trends, manage risks, and automate trading strategies. Big data analytics and machine learning models can predict stock market movements, evaluate investment risks, and optimize portfolios.
+* Economics: Computational models help in analyzing economic policies, forecasting economic conditions, and understanding complex economic systems through the analysis of vast amounts of financial data.
+* Healthcare: Computational and data sciences are used for predicting disease outbreaks, personalizing medical treatments, and improving diagnostic accuracy.
 
-4. Name the two different categories of logical reasoning and provide and example of each class.  
-Ans.    
+5. Name the two different categories of logical reasoning and provide and example of each class.  
+Ans.
+* Inductive Reasoning: Involves making generalizations based on observing specific instances.
+Example: Every cat I have seen has four legs. My friend's cat has four legs. The cat in the book also has four legs. Therefore, all cats have four legs. This conclusion is probable, except that there might exist a cat that does not fit this generalization due to mutation or injury.
 
-5. Is logical implication the same as physical causation? Explain with an example.
+* Deductive Reasoning: Involves starting with a hypothesis and examining the possibilities to reach a specific, logical conclusion.
+Example: All birds have feathers. A penguin is a bird. Therefore, a penguin has feathers. If the premises are true, the conclusion must also be true. It provides a conclusive proof, assuming the premises are accurate.
+
+6. Is logical implication the same as physical causation? Explain with an example.
 Ans. Logical implication is the logic behind whether there a physical causation or not. For example, if you lift weights you will gain muscle, but if you dont lift you wont gain muscle. there are some irregular cases lets say if some has a high protien diet and eats enough to sustain without lifting but for the average person
 
-6. Who is the Boolean algebra named after?  
+7. Who is the Boolean algebra named after?  
 Ans. George Boole
 
 What does it mean if two Boolean propositions are equal?
 Extra Credit. Was this a fair quiz (overall, as you expected)? Briefly justify your response, especially if your answer is NO. How about the past quizzes in this course? 
 (Hint. Provide your sincere opinion. Your answer won’t impact anything about your status in this course other than giving you an extra credit in this quiz. But it will impact the design of the future quizzes.)
-Most quizzes are slightly on the difficult side  but I havent been doing great myself even with prior knowledge. 
+Most quizzes are slightly on the difficult side but I havent been doing great myself even with prior knowledge.  
