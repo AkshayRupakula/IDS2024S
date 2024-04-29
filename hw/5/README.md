@@ -17,7 +17,7 @@
 * Unordered: Nationalities, Bloodtypes, Marital status, etc
 
 6. 
-* Month: Qualitative, Categorical, Discrete, Ordered
+* Month: Quantitative, Numerical, Discrete, Ordered
 * Day: Qualitative, Numerical, Discrete, Ordered  
 * Location: Qualitative, Categorical, Discrete, Unordered 
 * Station ID: Qualitative, Categorical, Discrete, Unordered
