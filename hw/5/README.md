@@ -73,5 +73,9 @@ Ordered/Unordered: Ordered (temperatures have a natural order, where higher valu
 
 13. Although the first pallete is more appropriate for effevtive visualization, the second palette can be used to aid viewing for color blind individuals.  
 
-14. 
+14,15,16 will be individual files uploaded
+
+17. Classical (or A Priori) Probability, Frequentist (or Empirical) Probability, Bayesian Probability, Propensity (or Physical) Probability.
+18. Individual file uploaded
+
 
