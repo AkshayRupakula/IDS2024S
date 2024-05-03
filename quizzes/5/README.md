@@ -61,7 +61,7 @@
 18. File Uploaded
 
 19. Just by looking a this graph it is clear that the temperature of Earth will increase in the long run but with fluctuations in the following decades?
-    The Earth will be hotter by 2-4 degrees celcius in 2050 with respect to the average temperature during 1951-1980.
+    The Earth will be hotter by 2 degrees celcius in 2050 with respect to the average temperature during 1951-1980.
 
 
 
