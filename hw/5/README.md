@@ -59,10 +59,13 @@
 
 13. Although the first pallete is more appropriate for effevtive visualization, the second palette can be used to aid viewing for color blind individuals.  
 
-14,15,16 will be individual files uploaded
+14,15,16,17 will be individual files uploaded
 
-17. Classical (or A Priori) Probability, Frequentist (or Empirical) Probability, Bayesian Probability, Propensity (or Physical) Probability.
+18. Classical (or A Priori) Probability, Frequentist (or Empirical) Probability, Bayesian Probability, Propensity (or Physical) Probability.
 
-18. Individual file uploaded
+EC 19. Two, Frog and Horse
+
+EC 20. Take the vertical matchstick from the plus sign (+) in the "8 + 3". Place it on the first digit of the "3" to turn it into an "8". 
+      This changes the equation to 8 - 8 - 4 = 0, which simplifies to 0 = 0, a true mathematical statement.
 
 
