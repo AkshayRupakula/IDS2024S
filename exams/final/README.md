@@ -17,7 +17,7 @@ d. Color as a tool to highlight
 6.  Logical implication is the logic behind whether there a physical causation or not. For example, if you lift weights you will gain muscle, but if you dont lift you wont gain muscle.
     There are some irregular cases lets say if some has a high protien diet and eats enough to sustain without lifting but for the average person.
 
-7. asojaosdj FInish after
+7. (A) Visually, the red line appears to be a good fit for illustrating the long-term trend of increasing temperature anomalies over the centuries. It captures the general upward trend in the dataset well. However, it does not account for the variability and fluctuations seen in the earlier data points. (B)The uncertainty in the dataset for the early years (before 1850) is likely dominated by measurement uncertainty. This is because historical temperature data often come from less precise instruments and fewer observation points, which can lead to greater variability and less reliability in the data. (C) The trend seen in this dataset is an example of positive correlation. As the years progress, the temperature anomalies generally increase, which means that as one variable (time) increases, the other variable (temperature anomaly) also increases. (D) Yes, this dataset can be classified as timeseries data because it consists of observations (temperature anomalies) recorded sequentially over time. Timeseries data is characterized by data points that are ordered in time. (E) 
 
 8. The school of probability theory that explicitly allows for the incorporation of expert (prior) knowledge in scientific inference is the Bayesian school.
    Bayesian probability theory uses Bayes' theorem to update the probability estimate for a hypothesis as more evidence or information becomes available.
@@ -55,11 +55,13 @@ In contrast, Bayesian probability could theoretically assign probabilities to th
 
 15, 16, 19, 21 are uploaded files
 
-17. Name the two different categories of logical reasoning and provide and example of each class.
+17.
+* Deductive Reasoning: This form of reasoning starts with a general statement or hypothesis and examines the possibilities to reach a specific, logical conclusion. It guarantees the correctness of the conclusion if the premises are true. For example, if all mammals are warm-blooded (premise), and all dogs are mammals (premise), then it follows necessarily that all dogs are warm-blooded (conclusion).
+* Inductive Reasoning: This involves making broad generalizations from specific observations. It is probabilistic, meaning that the conclusions may be plausible but are not guaranteed to be true. For example, observing that the sun has risen every morning in recorded history leads to the generalization that the sun will rise every morning.
 
-18. What does it mean if two Boolean propositions are equal?
+19. When two Boolean propositions are equal, it means they have the same truth value under all possible circumstances. This equality, also referred to as logical equivalence, implies that no matter what the individual truth values of the variables within the propositions are, the overall truth values of both propositions will always match. For example, the propositions (A AND B) and (B AND A) are equal because they yield the same truth value for all combinations of truth values of A and B. Testing for equality of Boolean propositions often involves creating truth tables to verify that the outputs are identical for all possible inputs, or using logical equivalences and transformations to demonstrate that one can be transformed into the other without changing its meaning or truth value.
 
-20. Can we represent all real numbers in computers?
+20. No, we cannot represent all real numbers in computers. Computers are limited in their ability to represent real numbers due to their finite memory and the binary nature of their storage systems. They typically use formats like floating-point representation, which can only approximate real numbers within certain limits of precision and range. While many numbers can be represented accurately, others, especially those requiring infinite precision or very large or small values, can only be approximated. For example, irrational numbers like π or e cannot be stored with perfect accuracy. This limitation can lead to rounding errors and other numerical issues in calculations, which is a significant concern in fields requiring high precision such as scientific computing and finance.
 
 
 
